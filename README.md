@@ -39,7 +39,7 @@ A deep learning project that detects deforestation areas in satellite and aerial
    -Windows
    ```bash
    venv\Scripts\activate
-```
+`
    -Linux/Mac
    ```bash
    source venv/bin/activate
@@ -52,6 +52,7 @@ A deep learning project that detects deforestation areas in satellite and aerial
 ## ▶️ Run the App
 ```bash
 streamlit run app.py
+
 
 
 
