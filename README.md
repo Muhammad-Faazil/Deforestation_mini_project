@@ -47,7 +47,10 @@ A deep learning project that detects deforestation areas in satellite and aerial
 4. Install dependencies
    ```bash
    pip install -r requirements.txt
-```
+   
+5.```markdown
+## ▶️ Run the App
+streamlit run app.py
 
 
 
