@@ -35,7 +35,7 @@ A deep learning project that detects deforestation areas in satellite and aerial
 2. **Create a virtual environment**
    ```bash
    python -m venv venv
-3.**Activate the environment**
+3. **Activate the environment**
    -Windows
    ```bash
    venv\Scripts\activate
@@ -44,13 +44,15 @@ A deep learning project that detects deforestation areas in satellite and aerial
    ```bash
    source venv/bin/activate
 ```
-4. Install dependencies
+4. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    
-5.```markdown
+5.
 ## ▶️ Run the App
+```bash
 streamlit run app.py
+
 
 
 
