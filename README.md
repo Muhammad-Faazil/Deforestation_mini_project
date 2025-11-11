@@ -32,4 +32,23 @@ A deep learning project that detects deforestation areas in satellite and aerial
    ```bash
    git clone https://github.com/Muhammad-Faazil/Deforestation_mini_project.git
    cd Deforestation_mini_project
-   
+2. **Create a virtual environment**
+   ```bash
+   python -m venv venv
+3.**Activate the environment**
+   -Windows
+   ```bash
+   venv\Scripts\activate
+```
+   -Linux/Mac
+   ```bash
+   source venv/bin/activate
+```
+4. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+```
+
+
+
+
